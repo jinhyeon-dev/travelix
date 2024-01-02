@@ -37,6 +37,9 @@ dependencies:
   cupertino_icons: ^1.0.2
   flutter_native_splash: ^2.3.9
   blurrycontainer: 1.0.2
+  like_button: ^2.0.5
+  google_maps_flutter: ^2.5.0
+  location: ^5.0.3
 
 dev_dependencies:
   flutter_test:
